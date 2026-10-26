@@ -22,7 +22,7 @@ An accessibility feature provides routes using lifts and ramps for elderly passe
 
 ## Proposed Solution / Architecture Diagram
 
-System Architecture:
+```
 
 Passenger / Railway Staff
 ↓
@@ -42,6 +42,7 @@ Interactive Map and Navigation Instructions
 ↓
 Passenger Reaches Destination
 
+```
 ## Use Cases
 
 Passengers can locate platforms, ticket counters, restrooms, and food courts.
